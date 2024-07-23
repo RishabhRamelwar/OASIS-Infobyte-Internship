@@ -1,1 +1,1 @@
-# OASIS-Internship
+# OASIS-Infobyte-Internship
